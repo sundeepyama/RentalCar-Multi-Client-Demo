@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\Experiment\CarRental\CarRental.Business.Entities\bin\Debug\CarRental.Business.Entities.dll
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\Experiment\CarRental\CarRental.Business.Entities\bin\Debug\CarRental.Business.Entities.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\Experiment\CarRental\CarRental.Business.Entities\obj\Debug\CarRental.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\Experiment\CarRental\CarRental.Business.Entities\obj\Debug\CarRental.Business.Entities.dll
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\Experiment\CarRental\CarRental.Business.Entities\obj\Debug\CarRental.Business.Entities.pdb
