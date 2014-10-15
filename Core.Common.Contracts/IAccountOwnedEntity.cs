@@ -8,6 +8,6 @@ namespace Core.Common.Contracts
 {
     public interface IAccountOwnedEntity
     {
-        public int OwnerAccountId { get; }
+        int OwnerAccountId { get; }
     }
 }

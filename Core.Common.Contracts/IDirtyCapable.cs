@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Core.Common.Contracts
 {
-    interface IDirtyCapable
+    public interface IDirtyCapable
     {
+        bool IsDirty { get; set; }
     }
 }

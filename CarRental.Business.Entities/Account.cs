@@ -39,6 +39,9 @@ namespace CarRental.Business.Entities
         [DataMember]
         public string CreditCard { get; set; }
 
+        [DataMember]
+        public string _ExpDate { get; set; }
+
         public int EntityId
         {
             get

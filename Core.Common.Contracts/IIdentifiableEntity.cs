@@ -8,6 +8,6 @@ namespace Core.Common.Contracts
 {
     public interface IIdentifiableEntity
     {
-        public int EntityId { get; set; }
+        int EntityId { get; set; }
     }
 }
