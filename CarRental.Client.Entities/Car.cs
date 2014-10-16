@@ -111,7 +111,7 @@ namespace CarRental.Client.Entities
             }
         }
 
-        override IValidator GetValidator()
+        protected override IValidator GetValidator()
         {
             return new CarValidator();
         }

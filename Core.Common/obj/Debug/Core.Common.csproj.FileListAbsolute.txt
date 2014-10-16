@@ -21,3 +21,8 @@ C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\bin\Debu
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\obj\Debug\Core.Common.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\obj\Debug\Core.Common.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\bin\Debug\Core.Common.dll.config
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\bin\Debug\EntityFramework.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\bin\Debug\EntityFramework.xml
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common\bin\Debug\EntityFramework.SqlServer.xml

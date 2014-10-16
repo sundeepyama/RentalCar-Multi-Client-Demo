@@ -23,3 +23,5 @@ C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Tests\bi
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Tests\bin\Debug\tr\FluentValidation.resources.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Tests\obj\Debug\Core.Common.Tests.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Tests\obj\Debug\Core.Common.Tests.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Tests\bin\Debug\EntityFramework.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Tests\bin\Debug\EntityFramework.xml

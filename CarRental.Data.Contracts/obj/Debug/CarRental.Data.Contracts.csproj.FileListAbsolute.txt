@@ -1,0 +1,4 @@
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Contracts\bin\Debug\CarRental.Data.Contracts.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Contracts\bin\Debug\CarRental.Data.Contracts.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Contracts\obj\Debug\CarRental.Data.Contracts.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Contracts\obj\Debug\CarRental.Data.Contracts.pdb

@@ -1,4 +1,3 @@
-C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
