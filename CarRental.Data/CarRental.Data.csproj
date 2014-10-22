@@ -37,6 +37,7 @@
       <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
@@ -61,6 +62,10 @@
     <ProjectReference Include="..\CarRental.Business.Entities\CarRental.Business.Entities.csproj">
       <Project>{95dea7a7-9b0f-449c-9de7-b60db17c3c35}</Project>
       <Name>CarRental.Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CarRental.Data.Contracts\CarRental.Data.Contracts.csproj">
+      <Project>{a57c228b-926c-491d-91db-1f97e95990f6}</Project>
+      <Name>CarRental.Data.Contracts</Name>
     </ProjectReference>
     <ProjectReference Include="..\Core.Common.Contracts\Core.Common.Contracts.csproj">
       <Project>{b6c8ba23-704b-44f7-95a5-35ddf928b6c8}</Project>

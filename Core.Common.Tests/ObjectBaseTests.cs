@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Core.Common.Tests.TestClasses;
+using System.ComponentModel;
 
 namespace Core.Common.Tests
 {
@@ -36,6 +37,27 @@ namespace Core.Common.Tests
             objTest.DirtyProp = "test value";
 
             Assert.IsTrue(objTest.IsDirty, "Object should be dirty");
+        }
+
+        [TestMethod]
+        public void test_propertyChangedEvent_handler()
+        {
+            TestClass objTest = new TestClass();
+            int changeCounter = 0;
+            PropertyChangedEventHandler handler1 = new PropertyChangedEventHandler((s, e) => changeCounter++ );
+            PropertyChangedEventHandler handler2 = new PropertyChangedEventHandler((s, e) => changeCounter++ );
+            objTest.PropertyChanged += handler1;
+            objTest.PropertyChanged += handler1;
+            objTest.PropertyChanged += handler1;
+            objTest.PropertyChanged += handler1;
+            objTest.PropertyChanged += handler1;
+            objTest.PropertyChanged += handler1;
+            objTest.PropertyChanged += handler2;
+            objTest.PropertyChanged += handler2;
+
+            objTest.StringProp = "Test Value";
+
+            Assert.IsTrue(changeCounter == 2, "This should be 2");
         }
     }
 }
