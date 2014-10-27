@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Bootstrapper\bin\Debug\CarRental.Business.Bootstrapper.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Bootstrapper\bin\Debug\CarRental.Business.Bootstrapper.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Bootstrapper\obj\Debug\CarRental.Business.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Bootstrapper\obj\Debug\CarRental.Business.Bootstrapper.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Bootstrapper\obj\Debug\CarRental.Business.Bootstrapper.pdb
