@@ -28,3 +28,13 @@ C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\EntityFramework.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\CarRental.Business.Bootstrapper.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\CarRental.Data.Contracts.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\CarRental.Data.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\CarRental.Business.Bootstrapper.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\CarRental.Data.Contracts.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\CarRental.Data.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Data.Tests\bin\Debug\EntityFramework.SqlServer.xml

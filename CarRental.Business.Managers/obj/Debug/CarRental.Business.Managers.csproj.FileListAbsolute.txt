@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Managers\bin\Debug\CarRental.Business.Managers.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Managers\bin\Debug\CarRental.Business.Managers.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Managers\obj\Debug\CarRental.Business.Managers.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Managers\obj\Debug\CarRental.Business.Managers.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Managers\obj\Debug\CarRental.Business.Managers.pdb

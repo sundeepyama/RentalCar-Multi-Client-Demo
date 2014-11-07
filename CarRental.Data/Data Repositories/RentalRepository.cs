@@ -37,5 +37,26 @@ namespace CarRental.Data.Data_Repositories
                     where e.RentalId == id
                     select e).FirstOrDefault();
         }
+
+        //public IEnumerable<Rental> GetRentalHistoryByCar(int carId)
+        //{
+        //    using (CarRentalContext entityContext = new CarRentalContext())
+        //    {
+        //        var query = from e in entityContext.RentalSet
+        //                    where e.CardId = carId
+        //                    select e;
+        //        return query.ToFullyLoaded();
+        //    }
+        //}
+
+        //public Rental GetCurrentRentalByCar(int carId)
+        //{
+            
+        //}
+
+        //public IEnumerable<Rental> GetCurrentlyRentedCars()
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
