@@ -1,0 +1,1 @@
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.ServiceHost.Console\obj\Debug\CarRental.ServiceHost.Console.csprojResolveAssemblyReference.cache

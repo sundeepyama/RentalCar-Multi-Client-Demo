@@ -1,4 +1,5 @@
 ﻿using CarRental.Business.Entities;
+using CarRental.Data.Contracts;
 using CarRental.Data.Contracts.Repository_Interfaces;
 using System;
 using System.Collections.Generic;
@@ -58,5 +59,23 @@ namespace CarRental.Data.Data_Repositories
         //{
         //    throw new NotImplementedException();
         //}
+
+        public IEnumerable<CustomerRentalInfo> GetCurrentCustomerRentalInfo()
+        {
+            using (CarRentalContext entityContext = new CarRentalContext())
+            {
+                var query = from r in entityContext.RentalSet
+                            where r.DateReturned == null
+                            join a in entityContext.AccountSet on r.AccountId equals a.AccountId
+                            join c in entityContext.CarSet on r.CardId equals c.CarId
+                            select new CustomerRentalInfo() 
+                            { 
+                                Customer = a,
+                                Car = c,
+                                Rental = r
+                            };
+                return query.ToList().ToArray();
+            }
+        }
     }
 }

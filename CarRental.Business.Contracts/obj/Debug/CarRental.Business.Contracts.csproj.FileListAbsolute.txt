@@ -27,3 +27,5 @@ C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.C
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Contracts\bin\Debug\tr\FluentValidation.resources.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Contracts\obj\Debug\CarRental.Business.Contracts.dll
 C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Contracts\obj\Debug\CarRental.Business.Contracts.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Contracts\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\CarRental.Business.Contracts\bin\Debug\Core.Common.ServiceModel.pdb

@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Users\sandy\Documents\GitHub\RentalCar-Multi-Client-Demo\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb

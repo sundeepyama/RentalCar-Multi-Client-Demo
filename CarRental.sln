@@ -37,6 +37,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Business", "CarRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Business.Managers", "CarRental.Business.Managers\CarRental.Business.Managers.csproj", "{465E4709-D153-4FA7-B788-CC95711272CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Common.ServiceModel", "Core.Common.ServiceModel\Core.Common.ServiceModel.csproj", "{D4D71CBE-C42E-4451-8D7D-9A84D199D246}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosting", "Hosting", "{7BE892BF-2E5C-4A3F-8FAB-6DFAA221567A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.ServiceHost.Console", "CarRental.ServiceHost.Console\CarRental.ServiceHost.Console.csproj", "{229C5410-EDD5-44C7-BF55-FB58AFA0EEB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +97,14 @@ Global
 		{465E4709-D153-4FA7-B788-CC95711272CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465E4709-D153-4FA7-B788-CC95711272CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465E4709-D153-4FA7-B788-CC95711272CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D71CBE-C42E-4451-8D7D-9A84D199D246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D71CBE-C42E-4451-8D7D-9A84D199D246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D71CBE-C42E-4451-8D7D-9A84D199D246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D71CBE-C42E-4451-8D7D-9A84D199D246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229C5410-EDD5-44C7-BF55-FB58AFA0EEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229C5410-EDD5-44C7-BF55-FB58AFA0EEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229C5410-EDD5-44C7-BF55-FB58AFA0EEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229C5410-EDD5-44C7-BF55-FB58AFA0EEB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,5 +122,7 @@ Global
 		{5E3A73E8-C201-4BB0-A96D-A0A7B237556D} = {E2D902AD-C369-4FA8-B18A-FF84F8AA8D23}
 		{310195CC-6912-480A-9860-61B0F72F31E1} = {E2D902AD-C369-4FA8-B18A-FF84F8AA8D23}
 		{465E4709-D153-4FA7-B788-CC95711272CE} = {E2D902AD-C369-4FA8-B18A-FF84F8AA8D23}
+		{D4D71CBE-C42E-4451-8D7D-9A84D199D246} = {865A8D00-ED87-498C-AD24-B5F476C8ECCF}
+		{229C5410-EDD5-44C7-BF55-FB58AFA0EEB7} = {7BE892BF-2E5C-4A3F-8FAB-6DFAA221567A}
 	EndGlobalSection
 EndGlobal
